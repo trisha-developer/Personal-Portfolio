@@ -1,4 +1,3 @@
 # Personal-Portfolio
 
-
-Project deployement: https://trisha-developer.github.io/Personal-Portfolio/
+Project deployment:https://trisha-developer.github.io/Personal-Portfolio/
